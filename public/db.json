@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "Nick",
+      "points": 100
+    },
+    {
+      "username": "Jeff",
+      "points": 1
+    },
+    {
+      "username": "Dame",
+      "points": 80
+    },
+    {
+      "username": "PlinkoGuy_12",
+      "points": 0
+    }
+  ]
+}
